@@ -1,0 +1,81 @@
+
+<div class="container">
+    <div class="row">
+        
+        <div class="col-md-5">
+          <p>This is where all description text will go. Blah Blah Blah</p>
+          <p>Price: $100,000</p>
+        </div>
+    </div>
+      <div class="row">
+          <div class="col-md-7"></div>
+    </div>
+  </div> -->
+<div class="container">
+    <div class = "row">
+      <div class="col-md-5">
+        <img class="img-responsive" src="/images/Item Inventory/Armed Flaired Benches/armed1.jpg">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed4.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed4.jpg" alt="Lights" style="width:100%">
+            <div class="caption">
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed2.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed2.jpg" alt="Nature" style="width:100%">
+            <div class="caption">
+              <p></p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed3.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed3.jpg" alt="Fjords" style="width:100%">
+            <div class="caption">
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed4.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed4.jpg" alt="Lights" style="width:100%">
+            <div class="caption">
+              <p></p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed2.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed2.jpg" alt="Nature" style="width:100%">
+            <div class="caption">
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="/images/Item Inventory/Armed Flaired Benches/armed3.jpg" target="_blank">
+            <img src="/images/Item Inventory/Armed Flaired Benches/armed3.jpg" alt="Fjords" style="width:100%">
+            <div class="caption">           
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+</div>
